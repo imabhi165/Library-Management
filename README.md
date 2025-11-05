@@ -73,7 +73,7 @@ cd Library-Management
 ### 2️⃣ Compile
 
 ```bash
-javac -d out src/library/**/*.java
+javac -d out $(find src -name "*.java")
 ```
 
 ### 3️⃣ Run

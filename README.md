@@ -7,16 +7,16 @@ This project helps beginners learn **Object-Oriented Programming, Collections, E
 
 ## ⭐ Features
 
-- ✅ Add books to library
-- ✅ Register members
-- ✅ Borrow & return books
-- ✅ Auto-generated Book & Member IDs
-- ✅ Membership Types (Standard / Premium)
-- ✅ Search books by title
-- ✅ Show all books, members, borrowed books
-- ✅ Track book availability
-- ✅ Custom Exceptions
-- ✅ Clean CLI Menus
+- **Add books to library**
+- **Register members**
+- **Borrow & return books**
+- **Auto-generated Book & Member IDs**
+- **Membership Types (Standard / Premium)**
+- **Search books by title**
+- **Show all books, members, borrowed books**
+- **Track book availability**
+- **Custom Exceptions**
+- **Clean CLI Menus**
 
 ---
 

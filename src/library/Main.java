@@ -15,15 +15,15 @@ public class Main {
 
         while (true) {
             System.out.println("\n===== MENU =====");
-            System.out.println("1️⃣  Add Book");
-            System.out.println("2️⃣  Register Member");
-            System.out.println("3️⃣  Borrow Book");
-            System.out.println("4️⃣  Return Book");
-            System.out.println("5️⃣  Search Books by Title");
-            System.out.println("6️⃣  Display All Books");
-            System.out.println("7️⃣  Display Available Books");
-            System.out.println("8️⃣  Display All Members");
-            System.out.println("9️⃣  Exit");
+            System.out.println(" 1.Add Book");
+            System.out.println(" 2.Register Member");
+            System.out.println(" 3.Borrow Book");
+            System.out.println(" 4.Return Book");
+            System.out.println(" 5.Search Books by Title");
+            System.out.println(" 6.Display All Books");
+            System.out.println(" 7.Display Available Books");
+            System.out.println(" 8.Display All Members");
+            System.out.println(" 9.Exit");
             System.out.print("👉 Enter choice: ");
 
             int choice = sc.nextInt();

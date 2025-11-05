@@ -34,11 +34,7 @@ Exception Handling | Custom exceptions
 ---
 
 ## 📂 Project Structure
----
-
-```markdown
-## 📂 Project Structure
-
+```
 src/
 └── library/
 ├── models/

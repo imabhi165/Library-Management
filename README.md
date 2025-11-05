@@ -130,17 +130,5 @@ Go to your repo → **Pull Requests → New PR**
 
 ---
 
-## 🌟 If you created repo first & want to push local code
-
-```bash
-git init
-git add .
-git commit -m "Initial commit"
-git branch -M main
-git remote add origin https://github.com/imabhi165/Library-Management.git
-git push -u origin main
-```
-
----
 
 

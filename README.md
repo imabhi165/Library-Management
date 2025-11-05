@@ -34,8 +34,6 @@ Exception Handling | Custom exceptions
 ---
 
 ## 📂 Project Structure
-Here is the **formatted README.md** version of the content you pasted — clean, ready to copy ✅
-
 ---
 
 ```markdown
@@ -56,14 +54,11 @@ src/
 └── Main.java
 
 ````
-
 ---
 
 ## ✅ Requirements
-
-- Java 17+  
-- Git  
-
+- Java JDK 8 or higher
+- Any Java IDE (VS Code, IntelliJ, Eclipse) or command line
 ---
 
 ## 🚀 Run Project Locally
@@ -148,33 +143,4 @@ git push -u origin main
 
 ---
 
-## 🧠 Troubleshooting
-
-### ❌ Error: non-fast-forward / unrelated histories
-
-```bash
-git pull origin main --allow-unrelated-histories
-git push origin main
-```
-
-### ❌ Invalid module or package issues?
-
-```bash
-javac -d out src/library/**/*.java
-java -cp out library.Main
-```
-
----
-
-✅ **You're all set!**
-Just copy–paste this directly into your `README.md` 🎯
-
-Would you like me to:
-
-* Add badges? ⭐
-* Add project logo/banner? 🎨
-* Add screenshots / GIF demo? 🎥
-* Add MIT License section? 📄
-
-Tell me, and I'll generate it 👇😊
 
